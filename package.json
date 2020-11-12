@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/eugenesia/material-ui-experiment/issues"
   },
-  "homepage": "https://github.com/eugenesia/material-ui-experiment#readme"
+  "homepage": "https://github.com/eugenesia/material-ui-experiment#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.5"
+  }
 }
