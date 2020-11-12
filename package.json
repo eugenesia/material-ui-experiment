@@ -1,0 +1,19 @@
+{
+  "name": "material-ui-experiment",
+  "version": "1.0.0",
+  "description": "Experiment with Material-UI components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenesia/material-ui-experiment.git"
+  },
+  "author": "Eugene Sia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugenesia/material-ui-experiment/issues"
+  },
+  "homepage": "https://github.com/eugenesia/material-ui-experiment#readme"
+}
