@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, makeStyles, SvgIcon, Link } from '@material-ui/core';
+import { Typography, makeStyles, SvgIcon, Link, Button } from '@material-ui/core';
 
 function LightBulbIcon(props) {
   return (
@@ -52,6 +52,10 @@ export default function Content() {
       <Typography variant="h4" component="h1" gutterBottom>
         Material-UI components example
       </Typography>
+      <Button variant="contained" color="primary">Primary</Button>
+      <Button variant="contained" color="secondary">Secondary</Button>
+      <Button variant="contained" disabled>Disabled</Button>
+      <Button variant="contained" color="primary" href="#contained-buttons">Link</Button>
       <ProTip />
       <Copyright />
     </>
